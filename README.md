@@ -1,5 +1,6 @@
 # tidal 👻
-tidal music download!
+tidal music 下载并使用 gclone 上传到 GoogleTeamDrive
+
 ## Installation
 
 Python3.6+的版本
@@ -7,7 +8,8 @@ Python3.6+的版本
 ```
 pip install -r requirements.txt
 ```
-
+安装配置gclone
+修改main.py
 ## Usage
 
 ```
