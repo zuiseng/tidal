@@ -1,0 +1,12 @@
+username = "账户"
+password = "密码"
+
+quality = "master"
+output-directory = "./output"
+by-id = false
+lucky = false
+search-count = 16
+quiet = false
+nice-format = false
+full-structure = true
+skip-metadata = false
