@@ -1,0 +1,6 @@
+pycryptodome
+mutagen
+questionary
+requests
+toml
+tqdm
