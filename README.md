@@ -20,7 +20,10 @@ python3 main.py getall https://listen.tidal.com/artist/-1-100  #下载https://li
 
 ## Configuration
 
-To point Mania to a different configuration file, use `--config-file <file>`.
+默认配置文件为 `./config.toml`
+如果用其它的配置文件 `--config-file <file>`.
+
+###参数详解###
 
 - `username <username>`: 账户. 
 - `password <password>`: 密码.
